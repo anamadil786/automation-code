@@ -7,7 +7,6 @@
 ```
 // Assuming you are in root directory
 npm i
-npm start
 
 ```
 
@@ -18,7 +17,7 @@ npm start
 ### Step 3: Start cypress
 
 ```
-npm run cypress:on
+npm run cypress
 ```
 
 ### Useful links
